@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "sjor": "confi",
+      "sjoy": 1,
+      "sjou": "usuario1@gmail.com",
+      "sjop": "contraseña1"
+    },
+    {
+      "sjor": "confi",
+      "sjoy": 2,
+      "sjou": "usuario2@gmail.com",
+      "sjop": "contraseña2"
+    },
+    {
+      "sjor": "confi",
+      "sjoy": 2,
+      "sjou": "usuario3@gmail.com",
+      "sjop": "contraseña3"
+    },
+    {
+      "sjor": "cateq",
+      "sjoy": 1,
+      "sjou": "usuario4@gmail.com",
+      "sjop": "contraseña4"
+    },
+    {
+      "sjor": "cateq",
+      "sjoy": 2,
+      "sjou": "usuario5@gmail.com",
+      "sjop": "contraseña5"
+    },
+    {
+      "sjor": "admin",
+      "sjoy": 1,
+      "sjou": "admin@gmail.com",
+      "sjop": "contraseña6"
+    }
+  ]
+}
